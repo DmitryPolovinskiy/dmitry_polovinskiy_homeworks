@@ -1,0 +1,2 @@
+['bird', 'hello', 'homework']
+[14, 23, 289]
